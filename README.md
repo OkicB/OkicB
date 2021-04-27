@@ -1,6 +1,6 @@
 ### Hello, I am Bekir Okić [bekir-o][https://bekir-o.netlify.app/]
 
- <img align="left" alt="Bekir's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Bekir&show_icons=true&hide_border=true" />
+<img align="left" alt="OkicB GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OkicB&show_icons=true&hide_border=true" />
  
  <br />
  <br />
