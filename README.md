@@ -1,4 +1,4 @@
-### Hello, I am Bekir Okić [bekir-o][https://bekir-o.netlify.app/]
+### Hello, I am Bekir Okić [OkicB][https://bekir-o.netlify.app/]
 
 <img align="left" alt="OkicB GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OkicB&show_icons=true&hide_border=true" />
  
