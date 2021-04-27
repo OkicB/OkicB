@@ -22,7 +22,7 @@
 
 ### Connect with me!
 
-[<img align="left" alt="bekir-o.netlify.app" width="22px" src="https://bekir-o.netlify.app/" />][https://bekir-o.netlify.app/]
+[<img align="left" alt="bekir-o.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://bekir-o.netlify.app/]
 [<img align="left" alt="Bekir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
