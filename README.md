@@ -22,8 +22,8 @@
 
 ### Connect with me!
 
-[<img align="left" alt="bekir-o.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://bekir-o.netlify.app/]
-[<img align="left" alt="Bekir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://bekir-o.netlify.app/"><img align="left" alt="bekir-o.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.linkedin.com/in/bekir-okic-708835175/"><img align="left" alt="Bekir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br />
 
