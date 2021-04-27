@@ -14,7 +14,7 @@
 
 ## Meet me
 
-- 🔭 I am currently working on: Social Media in React
+- 🔭 I am currently working on: Social Media project in React
 - 🌱 I am currently learning: Javascript, React, Node
 - 👯 I am looking to collaborate with anyone who would like to collaborate with me 🤣
 - 🥅 2021 Goals: Work on more demanding projects and help other beginners to succeed
@@ -22,7 +22,7 @@
 
 ### Connect with me!
 
-[<img align="left" alt="bekir-o.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="bekir-o.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://bekir-o.netlify.app/]
 [<img align="left" alt="Bekir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
