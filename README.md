@@ -17,7 +17,7 @@
 - 🔭 I am currently working on: Social Media project in React
 - 🌱 I am currently learning: Javascript, React, Node
 - 👯 I am looking to collaborate with anyone who would like to collaborate with me 🤣
-- 🥅 2021 Goals: Work on more demanding projects and help other beginners to succeed
+- 🥅 2022 Goals: Work on more demanding projects and help other beginners to succeed
 - ⚡ Interesting fact: I love sport and music
 
 ### Connect with me!
