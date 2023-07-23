@@ -3,7 +3,7 @@
 ## Meet me
 
 - 🔭 I learn and work on building Python API's projects using FastAPI, PostgreSQL and GCP
-- <img <i class="fa-solid fa-terminal"></i>/> Experienced with: Javascript and PHP
+- <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 576 512"><path d="M9.4 86.6C-3.1 74.1-3.1 53.9 9.4 41.4s32.8-12.5 45.3 0l192 192c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L178.7 256 9.4 86.6zM256 416H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H256c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg> Experienced with: Javascript and PHP
 - 👯 I am looking to collaborate with anyone who would like to collaborate with me 🤣
 - 🥅 2023 Goals: Work on more demanding projects and help other beginners to succeed
 - ⚡ Interesting fact: I love sport and music
