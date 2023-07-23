@@ -3,7 +3,7 @@
 ## Meet me
 
 - 🔭 I learn and work on building Python API's projects using FastAPI, PostgreSQL and GCP
-- ![image](https://github.com/OkicB/OkicB/assets/55504119/daf2fdbf-d1b4-4cd6-80d9-a33b441f7c03)
+- <img align="left" alt="Coding" width="26px" src="https://github.com/OkicB/OkicB/assets/55504119/daf2fdbf-d1b4-4cd6-80d9-a33b441f7c03" />
  Experienced with: Javascript and PHP
 - 👯 I am looking to collaborate with anyone who would like to collaborate with me 🤣
 - 🥅 2023 Goals: Work on more demanding projects and help other beginners to succeed
