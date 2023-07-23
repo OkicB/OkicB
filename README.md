@@ -1,14 +1,4 @@
 ### Hello, I am <a href="https://bekir-o.netlify.app/">Bekir Okić</a>
- 
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
- <br />
 
 ## Meet me
 
