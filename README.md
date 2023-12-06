@@ -5,7 +5,7 @@
 - 🔭 I learn and work on building Python API's projects using FastAPI, PostgreSQL and GCP
 - 🛠️ Experienced with: Javascript and PHP
 - 👯 I am looking to collaborate with anyone who would like to collaborate with me 🤣
-- 🥅 2023 Goals: Work on more demanding projects and help other beginners to succeed
+- 🥅 2024 Goals: Work on more demanding projects and help other beginners to succeed
 - ⚡ Interesting fact: I love sport and music
 
 ### Connect with me!
